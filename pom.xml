@@ -11,6 +11,7 @@
     <modules>
         <module>FirstTask</module>
         <module>SecondTask</module>
+        <module>ThirdTask</module>
     </modules>
 
 
